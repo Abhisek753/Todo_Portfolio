@@ -1,9 +1,94 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "data": [
+    {
+      "post": "Express",
+      "branch": "Backend code",
+      "name": "Rahul bhusan",
+      "email": "ruhi@gmail.com",
+      "gender": "Female",
+      "age": "55",
+      "id": 4
+    },
+    {
+      "post": "Manager",
+      "branch": "indore",
+      "name": "Manish",
+      "email": "manish@gmail.com",
+      "gender": "Male",
+      "age": "78",
+      "id": 5
+    },
+    {
+      "post": "Singer",
+      "branch": "Gurgao",
+      "name": "Garima",
+      "email": "guria@gmail.com",
+      "gender": "Female",
+      "age": "28",
+      "id": 6
+    },
+    {
+      "post": "Python",
+      "branch": "mumbai",
+      "name": "jignesh",
+      "email": "jig@gmail.com",
+      "gender": "Male",
+      "age": "34",
+      "id": 7
+    },
+    {
+      "post": "Teleperformence",
+      "branch": "",
+      "name": "Bhim",
+      "email": "bhim@gmail.com",
+      "gender": "",
+      "age": "",
+      "id": 10
+    },
+    {
+      "post": "pulkit",
+      "branch": "",
+      "name": "pulkit sir",
+      "email": "pulkit@gmail.com",
+      "gender": "Male",
+      "age": "35",
+      "id": 11
+    },
+    {
+      "post": "imenso",
+      "branch": "indore",
+      "name": "Imenso",
+      "email": "imenso@gmail.com",
+      "gender": "Male",
+      "age": "72",
+      "id": 12
+    },
+    {
+      "post": "jeevan",
+      "branch": "high",
+      "name": "jeevaal",
+      "email": "jjeevan@gmail.com",
+      "gender": "Male",
+      "age": "78",
+      "id": 13
+    },
+    {
+      "post": "java",
+      "branch": "kjfskjlkasjl",
+      "name": "abhisek",
+      "email": "ja@gmail.com",
+      "gender": "Male",
+      "age": "8",
+      "id": 14
+    },
+    {
+      "post": "kjlfdkjladfs",
+      "branch": "ssasffsa",
+      "name": "sdfs",
+      "email": "dfs@gmail.com",
+      "gender": "Male",
+      "age": "78",
+      "id": 15
+    }
+  ]
 }
